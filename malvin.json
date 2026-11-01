@@ -1,11 +1,11 @@
 
 {
-"bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+"bot-name": "ɪɴᴛʀᴏᴠᴇʀx ʙʏ ꜱʜᴇʜᴀɴꜱʜᴀʜ",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱʜᴇʜᴀɴꜱʜᴀʜ",
   "logo": "https://files.catbox.moe/juxfce.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://github.com/XdKing2/MALVIN-XD",
-    "owner-verification":"malvink003@gmail.com",
+    "owner-verification":"shehanshahofc@gmail.com",
   
     "env": {
       "SESSION_ID": {
@@ -18,7 +18,7 @@
     "OWNER_NUMBER": {
       "description": "Enter owner number",
       "required": true,
-      "value": "263714757857"
+      "value": "923097319159"
       
        },
       "TIMEZONE": {
