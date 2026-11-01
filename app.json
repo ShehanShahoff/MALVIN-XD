@@ -1,28 +1,28 @@
 {
   "name": "malvin-xd",
   "version": "2.1.1",
-  "description": "MALVIN XD - Advanced WhatsApp Bot",
+  "description": "Introvert X - Advanced WhatsApp Bot",
   "website": "cooming soon",
-  "logo": "https://i.ibb.co/zHhMyRT3/malvin-xd.jpg",
+  "logo": "https://files.catbox.moe/bxzu1a.png",
   "keywords": ["malvin-xd", "whatsapp-bot"],
   "repository": "https://github.com/XdKing2/MALVIN-XD",
   "success_url": "/",
   "stack": "container",
   "env": {
     "BOT_NAME": {
-      "description": "Your Bot Name",
+      "description": "Introvert X",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ xᴅ"
+      "value": "Introvert X"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "SHEHANSHAH",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "SHEHANSHAH"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263776388689"
+      "value": "923097319159"
     },
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'starcore~'",
